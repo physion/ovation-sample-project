@@ -6,3 +6,5 @@ entities.json
 .ipynb_checkpoints/Demo-checkpoint.ipynb
 
 ovation.log
+
+*.pyc
